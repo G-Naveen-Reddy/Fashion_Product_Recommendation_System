@@ -1,4 +1,4 @@
-# Fashion Product Recommendation Engine 
+# Fashion Product Recommendation System
 
 ## Project Overview
 - An end-to-end content-based fashion product recommendation system.
